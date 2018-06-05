@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+<head>
+<title>Abena portfolio</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+</head>
+<body>
+<div class="navbar">
+<a href="index.html">Home</a>
+<a href="aboutme.html">About Me</a>
+<a href="featurepage.html">Feature Page</a>
+<a href="projects.html">Projects</a>
+</div>
+<div class="project-container">
+
+<span><a href="https://trinket.io/html/e7b1451882" target="_blank">This project is about you making a page about yourself and what people should know about you and what you do.Some challenges I face while completing this project was getting all the tags in place because sometimes I usually got mixed up and sometimes need help.</a></span>
+
+<span><a href="https://trinket.io/library/trinkets/d0a19a56cc" target="_blank">This project is about my robot I made. The challenge I face was getting the right html tag and css tag in order so the things I added would pop up. </a></span>
+
+<span><a href="https://trinket.io/library/trinkets/3c9210a246" target="_bank">THis project is about creating a mystery letter.What I found challenging was following the same steps, so the page can be donre the right way.</a></span>
+</div>
+<div class="project-container">
+
+<span><a href="https://trinket.io/library/trinkets/a115130833" target="_blank">This project is about my own business what I created and in that business I decided to sell shoes and I took the name footlocker from a real brand name store. What was challenging was typing up and finishing before it was due.</a></span>
+
+<span><a href="https://trinket.io/library/trinkets/200d0aee39" target="_blank"> This project is about creating a recipe of your favourite food. What I found challenging was finding a right photo and finding the right size which was not big or small.</a></span>
+
+<span><a href="https://trinket.io/library/trinkets/fffa7fe28a" target="_blank"> In this project I made my own comic strips. What I found challenging was putting all the right styles and fonts in the right place.</a></span>
+</div>
